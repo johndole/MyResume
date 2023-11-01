@@ -50,11 +50,10 @@ p{
 
   section {
     display: flex;
-    height: 100vh;
+    min-height: 100vh;
     align-items: center;
     margin-left: 30px;
     margin-bottom: 50px;
-    overflow: auto;
   }
  
 
@@ -273,7 +272,7 @@ background-color: #bd5d38;
     display: flex;
    flex-wrap: wrap;;
     margin-top: 30px;
-    font-size: 4rem;
+    font-size: 3rem;
     color: #868e96;
   }
 
