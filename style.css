@@ -234,7 +234,7 @@ background-color: #bd5d38;
    flex-wrap: wrap;;
     margin-top: 30px;
     font-size: 3rem;
-    color: #868e96;
+    
   }
 
   .list-skill-icons .fa {
@@ -273,9 +273,11 @@ background-color: #bd5d38;
    flex-wrap: wrap;;
     margin-top: 30px;
     font-size: 3rem;
-    color: #868e96;
   }
 
   .list-interests-icons i {
     margin-right: 50px;
   }
+.postgre-image{
+  width: 3.5rem; 
+}
