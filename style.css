@@ -42,7 +42,7 @@ p{
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     font-weight: 500;
-    color: #868e96;;
+    color: #868e96;
     margin: 0px 0px 16px;
     max-width: 745px;
 }
@@ -75,15 +75,17 @@ p{
     color: #343a40;
   }
 
-a {
+  .link-stack {
+    font-family: 'Open Sans', sans-serif;
     text-decoration: none;
     color: #bd5d38; 
-}
+  }
 
-a:hover{
- text-decoration: none;
- color: #343a40;
-}
+  .link-stack:hover{
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color: #343a40;
+  }
   
   .sidebar {
     position: fixed;
