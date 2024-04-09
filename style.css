@@ -74,6 +74,13 @@ p{
     text-decoration: none;
     color: #343a40;
   }
+
+.link-stack {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #868e96;;
+}
   
   .sidebar {
     position: fixed;
